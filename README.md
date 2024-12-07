@@ -1,6 +1,6 @@
 # Book E-commerce Website - Database
 
-This repository contains the database schema and seed data for the Book E-commerce Website project. The database is designed to store and manage information about users, books, orders, and more.
+This repository contains the database schema and seed data for the Book E-commerce Website project. The database is designed to store and manage information about users and books.
 
 ## Collections
 1. **Users**
