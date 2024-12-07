@@ -16,8 +16,8 @@ Prerequisites
   - Access credentials for connecting to the MongoDB instance if hosted on the cloud.
 
 Contributors
-Niloofar Koochakian Jazi 
-Ansh Satish Acharya
-Milad Nazari 
-Utsav Ketanbhai Mistry 
-Yeoul Kang 
+   - Niloofar Koochakian Jazi 
+   - Ansh Satish Acharya
+   - Milad Nazari 
+   - Utsav Ketanbhai Mistry 
+   - Yeoul Kang 
