@@ -1,0 +1,122 @@
+[
+    {
+        "shortTitle": "Calm Within the Storm",
+        "fullTitle": "Calm Within the Storm: A Pathway to Everyday Resiliency",
+        "author": "Robyne Hanley-Dafoe",
+        "ratings": 4.8,
+        "price": 23.99,
+        "formats": {
+            "paperback": 23.99,
+            "hardcover": 23.99,
+            "ebook": 21.99
+        },
+        "category": "Psychology",
+        "stock": 100,
+        "image": "/images/Calm Within the Storm.png",
+        "isbn": "978-1234567890",
+        "description": "In this transformative guide, Robyne Hanley-Dafoe offers a pathway to finding resilience and calm amidst life's challenges. She provides readers with practical tools and insights to navigate personal storms and come out stronger on the other side. The book is filled with strategies for managing stress, developing emotional strength, and building everyday resiliency. Whether you're facing major obstacles or everyday setbacks, this book shows you how to regain control, focus on what matters, and live a more balanced life. By blending personal stories, research-based practices, and actionable advice, it serves as a compass for anyone looking to thrive under pressure.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 256,
+        "shippingDimensions": "8.5 x 5.5 x 1 inches",
+        "publisher": "HarperCollins",
+        "releaseDate": "2022-03-15"
+    },
+    {
+        "shortTitle": "Harry Potter: MinaLima Edition",
+        "fullTitle": "Harry Potter and the Philosopher’s Stone: MinaLima Edition",
+        "author": "J.K. Rowling",
+        "ratings": 4.9,
+        "price": 39.99,
+        "formats": {
+            "paperback": 39.99,
+            "hardcover": 39.99,
+            "ebook": 37.99
+        },
+        "category": "Fantasy",
+        "stock": 120,
+        "image": "/images/Harry Potter.png",
+        "isbn": "978-3344556677",
+        "description": "This stunningly reimagined edition of J.K. Rowling's beloved classic brings the wizarding world to life like never before. Designed by MinaLima, the book features breathtaking illustrations and interactive elements that immerse readers in Harry Potter's first adventure. From the magical journey to Hogwarts to the epic encounter with Voldemort, every page is a feast for the eyes. Perfect for collectors and fans of all ages, this edition is a celebration of the creativity and wonder that has made Harry Potter a global phenomenon. Experience the magic all over again with this beautifully crafted treasure.",
+        "illustratedBy": "MinaLima",
+        "appropriateFor": "Teens and Adults",
+        "language": "English",
+        "noOfPages": 368,
+        "shippingDimensions": "9.5 x 7.5 x 1.5 inches",
+        "publisher": "Bloomsbury",
+        "releaseDate": "2021-10-01"
+    },
+    {
+        "shortTitle": "World's Greatest Short Stories",
+        "fullTitle": "World's Greatest Short Stories (Deluxe Hardbound Edition): Collectable Edition",
+        "author": "Various Authors",
+        "ratings": 4.4,
+        "price": 29.99,
+        "formats": {
+            "paperback": 29.99,
+            "hardcover": 29.99,
+            "ebook": 27.99
+        },
+        "category": "Short Stories",
+        "stock": 120,
+        "image": "/images/World's Greatest Short Stories.png",
+        "isbn": "978-1234567892",
+        "description": "This deluxe hardbound edition brings together some of the finest short stories ever written. Featuring works by literary giants such as Edgar Allan Poe, Washington Irving, and O. Henry, this collection offers a rich tapestry of genres and themes. Each story is a masterpiece of storytelling, capturing the essence of human emotions and experiences. Whether you're a fan of suspense, humor, or drama, you'll find something to treasure in this anthology. With its elegant design and timeless content, this book is perfect for readers and collectors alike.",
+        "illustratedBy": "Hardbound Classics",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "10 x 7 x 1.2 inches",
+        "publisher": "Penguin Classics",
+        "releaseDate": "2020-05-25"
+    },
+    {
+        "shortTitle": "Rich Dad Poor Dad",
+        "fullTitle": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+        "author": "Robert T. Kiyosaki",
+        "ratings": 4.7,
+        "price": 24.99,
+        "formats": {
+            "paperback": 24.99,
+            "hardcover": 24.99,
+            "ebook": 22.99
+        },
+        "category": "Personal Finance",
+        "stock": 150,
+        "image": "/images/Rich Dad Poor Dad.png",
+        "isbn": "978-1612680194",
+        "description": "Robert T. Kiyosaki's groundbreaking book challenges traditional beliefs about money and wealth. By sharing lessons from his two 'dads'—one rich and one poor—Kiyosaki reveals the key principles that set the wealthy apart. This book explores topics like building assets, understanding financial statements, and escaping the rat race. With practical advice and relatable stories, it empowers readers to take control of their financial future. Whether you're looking to start investing, build passive income, or simply change your mindset about money, this book provides a solid foundation for financial literacy.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Young Adults and Adults",
+        "language": "English",
+        "noOfPages": 336,
+        "shippingDimensions": "8.2 x 5.4 x 0.8 inches",
+        "publisher": "Plata Publishing",
+        "releaseDate": "1997-04-01"
+    },
+    {
+        "shortTitle": "The Psychology of Money",
+        "fullTitle": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+        "author": "Morgan Housel",
+        "ratings": 4.7,
+        "price": 21.99,
+        "formats": {
+            "paperback": 21.99,
+            "hardcover": 21.99,
+            "ebook": 19.99
+        },
+        "category": "Personal Finance",
+        "stock": 75,
+        "image": "/images/The Psychology of Money.png",
+        "isbn": "978-1234567894",
+        "description": "Morgan Housel explores the complex relationship between people and money in this insightful book. Drawing on timeless lessons and real-world examples, he delves into the emotional and psychological factors that drive financial decisions. From the role of luck and risk to the importance of long-term thinking, this book offers valuable perspectives on building wealth and achieving happiness. It's not just about making money—it's about understanding the behaviors and mindsets that shape our financial lives. Whether you're an investor, entrepreneur, or everyday saver, this book provides a fresh take on personal finance.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Young Adults and Adults",
+        "language": "English",
+        "noOfPages": 256,
+        "shippingDimensions": "8.4 x 5.8 x 0.9 inches",
+        "publisher": "Harriman House",
+        "releaseDate": "2020-09-08"
+    }
+]

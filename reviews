@@ -1,0 +1,123 @@
+[
+    {
+      "_id": "6754970cee5e749e5aeef6a1",
+      "bookId": "6754179e4a0b846185979edf",
+      "rating": 5,
+      "review": "Absolutely loved this book! Insightful and engaging.",
+      "reviewTitle": "Excellent Read",
+      "nickname": "BookLover123",
+      "email": "booklover1@example.com",
+      "location": "New York, NY",
+      "incentive": "No",
+      "createdAt": "2024-12-07T18:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6a2",
+      "bookId": "6754179e4a0b846185979edf",
+      "rating": 4,
+      "review": "A well-written guide to building resilience.",
+      "reviewTitle": "Practical Advice",
+      "nickname": "HappyReader",
+      "email": "reader@example.com",
+      "location": "Toronto, Canada",
+      "incentive": "Yes",
+      "createdAt": "2024-12-07T19:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6a3",
+      "bookId": "6754179e4a0b846185979ee1",
+      "rating": 5,
+      "review": "An epic adventure that captures the imagination.",
+      "reviewTitle": "Thrilling Journey",
+      "nickname": "Adventurer",
+      "email": "adventurelover@example.com",
+      "location": "Seattle, WA",
+      "incentive": "No",
+      "createdAt": "2024-12-07T20:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6a4",
+      "bookId": "6754179e4a0b846185979ee2",
+      "rating": 3,
+      "review": "The pacing was slow, but the plot was solid.",
+      "reviewTitle": "Decent Read",
+      "nickname": "CriticalThinker",
+      "email": "criticalthinker@example.com",
+      "location": "Los Angeles, CA",
+      "incentive": "No",
+      "createdAt": "2024-12-07T21:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6b1",
+      "bookId": "6754179e4a0b846185979ee3",
+      "rating": 4,
+      "review": "A great addition to any Harry Potter fan’s collection!",
+      "reviewTitle": "Beautiful Edition",
+      "nickname": "WizardFan",
+      "email": "wizardfan@example.com",
+      "location": "London, UK",
+      "incentive": "No",
+      "createdAt": "2024-12-07T22:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6b2",
+      "bookId": "6754179e4a0b846185979ee4",
+      "rating": 5,
+      "review": "Life-changing lessons on financial literacy.",
+      "reviewTitle": "Eye-Opening",
+      "nickname": "InvestorGuru",
+      "email": "investorguru@example.com",
+      "location": "Chicago, IL",
+      "incentive": "Yes",
+      "createdAt": "2024-12-07T23:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6b3",
+      "bookId": "6754179e4a0b846185979ee5",
+      "rating": 4,
+      "review": "A refreshing perspective on the psychology of money.",
+      "reviewTitle": "Unique Insights",
+      "nickname": "FinanceBuff",
+      "email": "financebuff@example.com",
+      "location": "Dallas, TX",
+      "incentive": "No",
+      "createdAt": "2024-12-08T00:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6b4",
+      "bookId": "6754179e4a0b846185979ee6",
+      "rating": 5,
+      "review": "Highly motivational and transformative.",
+      "reviewTitle": "A Must-Read",
+      "nickname": "SelfHelpFanatic",
+      "email": "selfhelp@example.com",
+      "location": "San Francisco, CA",
+      "incentive": "Yes",
+      "createdAt": "2024-12-08T01:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6c1",
+      "bookId": "6754179e4a0b846185979ee7",
+      "rating": 3,
+      "review": "Enjoyable but felt repetitive at times.",
+      "reviewTitle": "Good but Repetitive",
+      "nickname": "StoryLover",
+      "email": "storylover@example.com",
+      "location": "Sydney, Australia",
+      "incentive": "No",
+      "createdAt": "2024-12-08T02:42:20.373Z"
+    },
+    {
+      "_id": "6754970cee5e749e5aeef6c2",
+      "bookId": "6754179e4a0b846185979ee8",
+      "rating": 5,
+      "review": "This book changed my approach to fitness entirely.",
+      "reviewTitle": "Game Changer",
+      "nickname": "FitnessFan",
+      "email": "fitnessfan@example.com",
+      "location": "Vancouver, Canada",
+      "incentive": "No",
+      "createdAt": "2024-12-08T03:42:20.373Z"
+    }
+  ]
+  
