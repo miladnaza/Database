@@ -5,47 +5,23 @@
         "author": "Robyne Hanley-Dafoe",
         "ratings": 4.8,
         "price": 23.99,
+        "formats": {
+            "paperback": 23.99,
+            "hardcover": 23.99,
+            "ebook": 21.99
+        },
         "category": "Psychology",
         "stock": 100,
         "image": "/images/Calm Within the Storm.png",
         "isbn": "978-1234567890",
-        "description": "A guide to finding resiliency and calm amid life's challenges, offering practical tools and insights for navigating personal storms."
-    },
-    {
-        "shortTitle": "Paddle to the Amazon",
-        "fullTitle": "Paddle to the Amazon: The Ultimate 12,000-Mile Canoe Adventure",
-        "author": "Don Starkell",
-        "ratings": 4.8,
-        "price": 16.99,
-        "category": "Adventure",
-        "stock": 50,
-        "image": "/images/Paddle to the Amazon.png",
-        "isbn": "978-0987654321",
-        "description": "A thrilling true story of a father and son’s 12,000-mile canoe journey from Canada to the Amazon."
-    },
-    {
-        "shortTitle": "The Grey Wolf",
-        "fullTitle": "The Grey Wolf: A Novel (Chief Inspector Gamache Novel Book 19)",
-        "author": "Louise Penny",
-        "ratings": 4.6,
-        "price": 14.99,
-        "category": "Mystery",
-        "stock": 80,
-        "image": "/images/The Grey Wolf.png",
-        "isbn": "978-1122334455",
-        "description": "A gripping mystery featuring Chief Inspector Gamache, exploring dark secrets and twists in a small Quebec town."
-    },
-    {
-        "shortTitle": "The Teacher",
-        "fullTitle": "The Teacher",
-        "author": "Freida McFadden",
-        "ratings": 4.2,
-        "price": 12.99,
-        "category": "Thriller",
-        "stock": 40,
-        "image": "/images/The Teacher.png",
-        "isbn": "978-2233445566",
-        "description": "A dark thriller following a teacher who uncovers shocking secrets that threaten her life and those she loves."
+        "description": "In this transformative guide, Robyne Hanley-Dafoe offers a pathway to finding resilience and calm amidst life's challenges. She provides readers with practical tools and insights to navigate personal storms and come out stronger on the other side. The book is filled with strategies for managing stress, developing emotional strength, and building everyday resiliency. Whether you're facing major obstacles or everyday setbacks, this book shows you how to regain control, focus on what matters, and live a more balanced life. By blending personal stories, research-based practices, and actionable advice, it serves as a compass for anyone looking to thrive under pressure.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 256,
+        "shippingDimensions": "8.5 x 5.5 x 1 inches",
+        "publisher": "HarperCollins",
+        "releaseDate": "2022-03-15"
     },
     {
         "shortTitle": "Harry Potter: MinaLima Edition",
@@ -53,47 +29,23 @@
         "author": "J.K. Rowling",
         "ratings": 4.9,
         "price": 39.99,
+        "formats": {
+            "paperback": 39.99,
+            "hardcover": 39.99,
+            "ebook": 37.99
+        },
         "category": "Fantasy",
         "stock": 120,
         "image": "/images/Harry Potter.png",
         "isbn": "978-3344556677",
-        "description": "A beautifully illustrated edition of the first Harry Potter book, reimagined by MinaLima."
-    },
-    {
-        "shortTitle": "Rich Dad Poor Dad",
-        "fullTitle": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
-        "author": "Robert T. Kiyosaki",
-        "ratings": 4.7,
-        "price": 24.99,
-        "category": "Personal Finance",
-        "stock": 150,
-        "image": "/images/Rich Dad Poor Dad.png",
-        "isbn": "978-1612680194",
-        "description": "A personal finance classic that debunks myths about wealth and teaches the principles of financial freedom and literacy."
-    },
-    {
-        "shortTitle": "The Psychology of Money",
-        "fullTitle": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
-        "author": "Morgan Housel",
-        "ratings": 4.7,
-        "price": 21.99,
-        "category": "Personal Finance",
-        "stock": 75,
-        "image": "/images/The Psychology of Money.png",
-        "isbn": "978-1234567894",
-        "description": "A deep dive into the emotional and psychological factors that drive our financial decisions and shape our lives."
-    },
-    {
-        "shortTitle": "The Mountain Is You",
-        "fullTitle": "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery",
-        "author": "Brianna Wiest",
-        "ratings": 4.7,
-        "price": 62.54,
-        "category": "Self-Help",
-        "stock": 2,
-        "image": "/images/The Mountain Is You.png",
-        "isbn": "978-1234567891",
-        "description": "A transformative guide on overcoming self-sabotage and embracing self-mastery through emotional intelligence and resilience."
+        "description": "This stunningly reimagined edition of J.K. Rowling's beloved classic brings the wizarding world to life like never before. Designed by MinaLima, the book features breathtaking illustrations and interactive elements that immerse readers in Harry Potter's first adventure. From the magical journey to Hogwarts to the epic encounter with Voldemort, every page is a feast for the eyes. Perfect for collectors and fans of all ages, this edition is a celebration of the creativity and wonder that has made Harry Potter a global phenomenon. Experience the magic all over again with this beautifully crafted treasure.",
+        "illustratedBy": "MinaLima",
+        "appropriateFor": "Teens and Adults",
+        "language": "English",
+        "noOfPages": 368,
+        "shippingDimensions": "9.5 x 7.5 x 1.5 inches",
+        "publisher": "Bloomsbury",
+        "releaseDate": "2021-10-01"
     },
     {
         "shortTitle": "World's Greatest Short Stories",
@@ -101,166 +53,513 @@
         "author": "Various Authors",
         "ratings": 4.4,
         "price": 29.99,
+        "formats": {
+            "paperback": 29.99,
+            "hardcover": 29.99,
+            "ebook": 27.99
+        },
         "category": "Short Stories",
         "stock": 120,
         "image": "/images/World's Greatest Short Stories.png",
         "isbn": "978-1234567892",
-        "description": "A deluxe hardbound edition of classic short stories by renowned authors like Edgar Allan Poe and Washington Irving."
+        "description": "This deluxe hardbound edition brings together some of the finest short stories ever written. Featuring works by literary giants such as Edgar Allan Poe, Washington Irving, and O. Henry, this collection offers a rich tapestry of genres and themes. Each story is a masterpiece of storytelling, capturing the essence of human emotions and experiences. Whether you're a fan of suspense, humor, or drama, you'll find something to treasure in this anthology. With its elegant design and timeless content, this book is perfect for readers and collectors alike.",
+        "illustratedBy": "Hardbound Classics",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "10 x 7 x 1.2 inches",
+        "publisher": "Penguin Classics",
+        "releaseDate": "2020-05-25"
     },
     {
+        "shortTitle": "Rich Dad Poor Dad",
+        "fullTitle": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+        "author": "Robert T. Kiyosaki",
+        "ratings": 4.7,
+        "price": 24.99,
+        "formats": {
+            "paperback": 24.99,
+            "hardcover": 24.99,
+            "ebook": 22.99
+        },
+        "category": "Personal Finance",
+        "stock": 150,
+        "image": "/images/Rich Dad Poor Dad.png",
+        "isbn": "978-1612680194",
+        "description": "Robert T. Kiyosaki's groundbreaking book challenges traditional beliefs about money and wealth. By sharing lessons from his two 'dads'—one rich and one poor—Kiyosaki reveals the key principles that set the wealthy apart. This book explores topics like building assets, understanding financial statements, and escaping the rat race. With practical advice and relatable stories, it empowers readers to take control of their financial future. Whether you're looking to start investing, build passive income, or simply change your mindset about money, this book provides a solid foundation for financial literacy.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Young Adults and Adults",
+        "language": "English",
+        "noOfPages": 336,
+        "shippingDimensions": "8.2 x 5.4 x 0.8 inches",
+        "publisher": "Plata Publishing",
+        "releaseDate": "1997-04-01"
+    },
+    {
+        "shortTitle": "The Psychology of Money",
+        "fullTitle": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+        "author": "Morgan Housel",
+        "ratings": 4.7,
+        "price": 21.99,
+        "formats": {
+            "paperback": 21.99,
+            "hardcover": 21.99,
+            "ebook": 19.99
+        },
+        "category": "Personal Finance",
+        "stock": 75,
+        "image": "/images/The Psychology of Money.png",
+        "isbn": "978-1234567894",
+        "description": "Morgan Housel explores the complex relationship between people and money in this insightful book. Drawing on timeless lessons and real-world examples, he delves into the emotional and psychological factors that drive financial decisions. From the role of luck and risk to the importance of long-term thinking, this book offers valuable perspectives on building wealth and achieving happiness. It's not just about making money—it's about understanding the behaviors and mindsets that shape our financial lives. Whether you're an investor, entrepreneur, or everyday saver, this book provides a fresh take on personal finance.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Young Adults and Adults",
+        "language": "English",
+        "noOfPages": 256,
+        "shippingDimensions": "8.4 x 5.8 x 0.9 inches",
+        "publisher": "Harriman House",
+        "releaseDate": "2020-09-08"
+    },
+    {
+        "shortTitle": "Paddle to the Amazon",
+        "fullTitle": "Paddle to the Amazon: The Ultimate 12,000-Mile Canoe Adventure",
+        "author": "Don Starkell",
+        "ratings": 4.8,
+        "price": 16.99,
+        "formats": {
+          "paperback": 16.99,
+          "hardcover": 18.99,
+          "ebook": 14.99
+        },
+        "category": "Adventure",
+        "stock": 50,
+        "image": "/images/Paddle to the Amazon.png",
+        "isbn": "978-0987654321",
+        "description": "A thrilling true story of a father and son’s 12,000-mile canoe journey from Canada to the Amazon. Through breathtaking landscapes and numerous challenges, their story is one of perseverance, courage, and the bond between a father and son. The book vividly describes the encounters with diverse cultures, harsh weather, and the natural wonders they experienced along the way.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Teens and Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "8 x 5.3 x 1 inches",
+        "publisher": "Adventure Press",
+        "releaseDate": "2000-05-01"
+      },
+      {
+        "shortTitle": "The Grey Wolf",
+        "fullTitle": "The Grey Wolf: A Novel (Chief Inspector Gamache Novel Book 19)",
+        "author": "Louise Penny",
+        "ratings": 4.6,
+        "price": 14.99,
+        "formats": {
+          "paperback": 14.99,
+          "hardcover": 19.99,
+          "ebook": 12.99
+        },
+        "category": "Mystery",
+        "stock": 80,
+        "image": "/images/The Grey Wolf.png",
+        "isbn": "978-1122334455",
+        "description": "A gripping mystery featuring Chief Inspector Gamache, exploring dark secrets and twists in a small Quebec town. With masterful storytelling and vivid characters, Louise Penny crafts a tale that keeps readers on the edge of their seats. Dive into the complexities of human nature and uncover the chilling truths hidden within the shadows of the picturesque village. As the investigation unfolds, Gamache faces not only the external challenges of the case but also his own inner struggles, making the story both thrilling and deeply personal.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 400,
+        "shippingDimensions": "9 x 6 x 1.5 inches",
+        "publisher": "Minotaur Books",
+        "releaseDate": "2023-08-15"
+      },
+      {
+        "shortTitle": "The Teacher",
+        "fullTitle": "The Teacher",
+        "author": "Freida McFadden",
+        "ratings": 4.2,
+        "price": 12.99,
+        "formats": {
+          "paperback": 12.99,
+          "hardcover": 15.99,
+          "ebook": 9.99
+        },
+        "category": "Thriller",
+        "stock": 40,
+        "image": "/images/The Teacher.png",
+        "isbn": "978-2233445566",
+        "description": "A dark thriller following a teacher who uncovers shocking secrets that threaten her life and those she loves. As she delves deeper into the mystery, she finds herself caught in a web of danger and deceit, where every clue leads to more questions and the stakes continue to rise. This gripping tale of suspense will leave readers on the edge of their seats, questioning who can truly be trusted.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "8 x 5 x 1 inches",
+        "publisher": "Psychological Thrillers Inc.",
+        "releaseDate": "2023-10-10"
+      },
+      {
+        "shortTitle": "The Psychology of Money",
+        "fullTitle": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+        "author": "Morgan Housel",
+        "ratings": 4.7,
+        "price": 21.99,
+        "formats": {
+          "paperback": 21.99,
+          "hardcover": 25.99,
+          "ebook": 18.99
+        },
+        "category": "Personal Finance",
+        "stock": 75,
+        "image": "/images/The Psychology of Money.png",
+        "isbn": "978-1234567894",
+        "description": "A deep dive into the emotional and psychological factors that drive our financial decisions and shape our lives. Through engaging stories and timeless lessons, Morgan Housel explores how personal behavior, life experiences, and unique perspectives influence the way we perceive and manage money. This insightful book provides a fresh approach to understanding wealth, greed, and happiness, emphasizing the importance of long-term thinking and emotional control in achieving financial success.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 256,
+        "shippingDimensions": "9 x 6 x 1 inches",
+        "publisher": "Harriman House",
+        "releaseDate": "2020-09-08"
+      },
+      {
+        "shortTitle": "The Mountain Is You",
+        "fullTitle": "The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery",
+        "author": "Brianna Wiest",
+        "ratings": 4.7,
+        "price": 62.54,
+        "formats": {
+          "paperback": 62.54,
+          "hardcover": 65.99,
+          "ebook": 60.99
+        },
+        "category": "Self-Help",
+        "stock": 2,
+        "image": "/images/The Mountain Is You.png",
+        "isbn": "978-1234567891",
+        "description": "A transformative guide on overcoming self-sabotage and embracing self-mastery through emotional intelligence and resilience. Brianna Wiest combines psychology, philosophy, and personal growth techniques to provide a practical roadmap for breaking self-destructive habits. This book inspires readers to confront their inner barriers, fostering a deeper understanding of their potential and how to unlock it. Whether you're seeking clarity, motivation, or tools for change, this book empowers you to transform challenges into opportunities for personal growth and success.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 224,
+        "shippingDimensions": "8.5 x 5.5 x 0.9 inches",
+        "publisher": "Thought Catalog Books",
+        "releaseDate": "2020-02-15"
+      },{
         "shortTitle": "The Richest Man in Babylon",
         "fullTitle": "The Richest Man in Babylon - The Original 1926 Classic (Reader's Library Classics)",
         "author": "George S. Clason",
         "ratings": 4.6,
         "price": 7.84,
+        "formats": {
+          "paperback": 7.84,
+          "hardcover": 10.99,
+          "ebook": 5.99
+        },
         "category": "Personal Finance",
         "stock": 50,
         "image": "/images/The Richest Man in Babylon.png",
         "isbn": "978-1234567893",
-        "description": "Timeless parables offering practical advice on financial well-being and wealth management."
-    },
-    {
+        "description": "Timeless parables offering practical advice on financial well-being and wealth management. George S. Clason uses engaging stories set in ancient Babylon to teach valuable lessons on saving, investing, and building wealth. This classic work emphasizes the importance of financial discipline, responsibility, and the principles of acquiring and growing wealth that remain relevant across generations. An essential read for anyone aspiring to achieve financial independence and success.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "All Ages",
+        "language": "English",
+        "noOfPages": 144,
+        "shippingDimensions": "8 x 5 x 0.5 inches",
+        "publisher": "Reader's Library Classics",
+        "releaseDate": "1926-01-01"
+      },{
         "shortTitle": "The Mamba Mentality",
         "fullTitle": "The Mamba Mentality: How I Play",
         "author": "Kobe Bryant",
         "ratings": 4.7,
         "price": 27.99,
+        "formats": {
+          "paperback": 27.99,
+          "hardcover": 30.99,
+          "ebook": 25.99
+        },
         "category": "Sports",
         "stock": 100,
         "image": "/images/The Mamba Mentality.png",
         "isbn": "978-1234567895",
-        "description": "Kobe Bryant’s detailed perspective on his life and career, sharing the principles behind his legendary 'Mamba Mentality.'"
-    },
-    {
+        "description": "Kobe Bryant’s detailed perspective on his life and career, sharing the principles behind his legendary 'Mamba Mentality.' This inspirational book takes readers through his mindset, training regimens, and personal reflections, offering an intimate look at what made Kobe one of the greatest athletes of all time. Packed with insights on discipline, focus, and the relentless pursuit of excellence, this book serves as a guide for anyone striving to reach their full potential.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 208,
+        "shippingDimensions": "11 x 8.5 x 1 inches",
+        "publisher": "MCD",
+        "releaseDate": "2018-10-23"
+      },
+      {
         "shortTitle": "The Seven Husbands of Evelyn Hugo",
         "fullTitle": "The Seven Husbands of Evelyn Hugo: A Novel",
         "author": "Taylor Jenkins Reid",
         "ratings": 4.6,
         "price": 21.99,
+        "formats": {
+          "paperback": 21.99,
+          "hardcover": 24.99,
+          "ebook": 19.99
+        },
         "category": "Fiction",
         "stock": 100,
         "image": "/images/The Seven Husbands of Evelyn Hugo.png",
         "isbn": "978-1234567891",
-        "description": "Aging Hollywood icon Evelyn Hugo recounts her glamorous yet scandalous life to an aspiring journalist, unraveling secrets of love, ambition, and tragedy."
-    },
-    {
+        "description": "Aging Hollywood icon Evelyn Hugo recounts her glamorous yet scandalous life to an aspiring journalist, unraveling secrets of love, ambition, and tragedy. This poignant tale captures the struggles and triumphs of a woman unapologetically forging her path in a world that seeks to define her. With unforgettable characters and masterful storytelling, it delves into themes of identity, sacrifice, and the price of fame, leaving readers captivated from start to finish.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 400,
+        "shippingDimensions": "9 x 6 x 1.5 inches",
+        "publisher": "Atria Books",
+        "releaseDate": "2017-06-13"
+      }
+      ,{
         "shortTitle": "The Intelligent Investor",
         "fullTitle": "The Intelligent Investor, 3rd Ed.: The Definitive Book on Value Investing",
         "author": "Benjamin Graham, Jason Zweig",
         "ratings": 4.7,
         "price": 34.99,
+        "formats": {
+          "paperback": 34.99,
+          "hardcover": 39.99,
+          "ebook": 29.99
+        },
         "category": "Investing",
         "stock": 100,
         "image": "/images/The Intelligent Investor.png",
         "isbn": "978-1234567896",
-        "description": "A timeless guide to value investing with updated commentary and insights on market developments."
-    },
-    {
+        "description": "A timeless guide to value investing with updated commentary and insights on market developments. This seminal work by Benjamin Graham, enhanced with commentary by Jason Zweig, provides readers with practical strategies for long-term investment success. Covering market psychology, risk management, and the principles of value investing, this book is an essential resource for anyone seeking to build wealth and understand financial markets.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 640,
+        "shippingDimensions": "9.2 x 6.1 x 1.7 inches",
+        "publisher": "HarperBusiness",
+        "releaseDate": "2003-07-08"
+      },
+      {
         "shortTitle": "The Boyfriend",
         "fullTitle": "The Boyfriend",
         "author": "Freida McFadden",
         "ratings": 4.3,
         "price": 17.99,
+        "formats": {
+          "paperback": 17.99,
+          "hardcover": 20.99,
+          "ebook": 15.99
+        },
         "category": "Thriller",
         "stock": 90,
         "image": "/images/The Boyfriend.png",
         "isbn": "978-1234567890",
-        "description": "A twisting thriller by Freida McFadden, following Sydney Shaw as she discovers the dark truth behind her perfect boyfriend."
-    },
-    {
+        "description": "A twisting thriller by Freida McFadden, following Sydney Shaw as she discovers the dark truth behind her perfect boyfriend. With heart-pounding suspense and shocking revelations, this psychological thriller delves into trust, deception, and the lengths one will go to uncover the truth. A must-read for fans of unpredictable and gripping narratives.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 300,
+        "shippingDimensions": "8.5 x 5.5 x 1 inches",
+        "publisher": "Psychological Thrillers Inc.",
+        "releaseDate": "2022-05-10"
+      },
+      {
         "shortTitle": "Thinner Leaner Stronger",
         "fullTitle": "Thinner Leaner Stronger: The Simple Science of Building the Ultimate Female Body",
         "author": "Michael Matthews",
         "ratings": 4.4,
         "price": 19.99,
+        "formats": {
+          "paperback": 19.99,
+          "hardcover": 24.99,
+          "ebook": 17.99
+        },
         "category": "Fitness",
         "stock": 100,
         "image": "/images/Thinner Leaner Stronger.png",
         "isbn": "978-1234567899",
-        "description": "A practical guide for women to build lean muscle and burn fat without extreme diets or endless gym sessions."
-    },
-    {
+        "description": "A practical guide for women to build lean muscle and burn fat without extreme diets or endless gym sessions. Michael Matthews combines science-based techniques with actionable advice to help readers achieve their fitness goals. This comprehensive book includes workout plans, nutritional guidance, and motivational strategies tailored specifically for women seeking to transform their bodies and live healthier lives.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 400,
+        "shippingDimensions": "9 x 6 x 1 inches",
+        "publisher": "Waterbury Publications",
+        "releaseDate": "2016-03-10"
+      }
+      ,
+      {
         "shortTitle": "Bigger Leaner Stronger",
         "fullTitle": "Bigger Leaner Stronger: The Simple Science of Building the Ultimate Male Body",
         "author": "Michael Matthews",
         "ratings": 4.5,
         "price": 19.99,
+        "formats": {
+          "paperback": 19.99,
+          "hardcover": 24.99,
+          "ebook": 17.99
+        },
         "category": "Fitness",
         "stock": 120,
         "image": "/images/Bigger Leaner Stronger.png",
         "isbn": "978-1234567897",
-        "description": "A comprehensive guide to building lean muscle and strength while losing fat, featuring practical advice, easy-to-follow workout plans, and scientifically backed tips for nutrition and recovery."
-    },
-    {
+        "description": "A comprehensive guide to building lean muscle and strength while losing fat, featuring practical advice, easy-to-follow workout plans, and scientifically backed tips for nutrition and recovery. Michael Matthews offers a clear roadmap to achieving peak physical condition with efficient, science-driven methods. Designed for men looking to enhance their physique, this book combines effective strategies with motivational insights to inspire lasting transformations.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 432,
+        "shippingDimensions": "9.2 x 6.2 x 1.2 inches",
+        "publisher": "Waterbury Publications",
+        "releaseDate": "2014-01-10"
+      },{
         "shortTitle": "Tell Me Everything",
         "fullTitle": "Tell Me Everything: Oprah's Book Club: A Novel",
         "author": "Elizabeth Strout",
         "ratings": 4.4,
         "price": 24.99,
+        "formats": {
+          "paperback": 24.99,
+          "hardcover": 29.99,
+          "ebook": 21.99
+        },
         "category": "Fiction",
         "stock": 85,
         "image": "/images/Tell Me Everything.png",
         "isbn": "978-1234567800",
-        "description": "A novel about new friendships, old loves, and the human desire to leave a mark on the world. Elizabeth Strout explores the human condition with remarkable insight."
-    },
-    {
+        "description": "A novel about new friendships, old loves, and the human desire to leave a mark on the world. Elizabeth Strout explores the human condition with remarkable insight. With poignant storytelling and layered characters, this book delves into universal themes of connection, ambition, and the meaning of legacy.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "9 x 6 x 1.2 inches",
+        "publisher": "Random House",
+        "releaseDate": "2023-09-12"
+      },
+      {
         "shortTitle": "Elon Musk",
         "fullTitle": "Elon Musk",
         "author": "Walter Isaacson",
         "ratings": 4.6,
         "price": 35.99,
+        "formats": {
+          "paperback": 35.99,
+          "hardcover": 39.99,
+          "ebook": 29.99
+        },
         "category": "Biography",
         "stock": 150,
         "image": "/images/Elon Musk.png",
         "isbn": "978-1234567801",
-        "description": "A comprehensive biography of Elon Musk, exploring his innovative ventures and unique approach to technology and business."
-    },
-    {
+        "description": "A comprehensive biography of Elon Musk, exploring his innovative ventures and unique approach to technology and business. Walter Isaacson presents an in-depth look at the triumphs, challenges, and vision of one of the most influential figures of our time. This book offers readers an inside perspective on Musk's drive, determination, and how he is shaping the future of humanity.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 688,
+        "shippingDimensions": "9.5 x 6.5 x 2 inches",
+        "publisher": "Simon & Schuster",
+        "releaseDate": "2023-09-12"
+      },
+      {
         "shortTitle": "Wealth Won’t Wait",
         "fullTitle": "Wealth Won’t Wait: Escape the 9-5, Regain Your Freedom, and Live in Abundance",
         "author": "Mike Desormeaux",
         "ratings": 4.9,
         "price": 19.99,
+        "formats": {
+          "paperback": 19.99,
+          "hardcover": 24.99,
+          "ebook": 17.99
+        },
         "category": "Real Estate Investing",
         "stock": 75,
         "image": "/images/WEALTH WON'T WAIT.png",
         "isbn": "978-1234567802",
-        "description": "A motivational guide to financial independence, sharing proven strategies for escaping the 9-to-5 grind and building wealth."
-    },
-    {
+        "description": "A motivational guide to financial independence, sharing proven strategies for escaping the 9-to-5 grind and building wealth. Mike Desormeaux provides actionable insights into leveraging real estate, financial planning, and mindset shifts to achieve abundance and freedom.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "9 x 6 x 1 inches",
+        "publisher": "Freedom Press",
+        "releaseDate": "2022-07-15"
+      },
+      {
         "shortTitle": "The First 90 Days",
         "fullTitle": "The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter",
         "author": "Michael D. Watkins",
         "ratings": 4.5,
         "price": 29.99,
+        "formats": {
+          "paperback": 29.99,
+          "hardcover": 34.99,
+          "ebook": 27.99
+        },
         "category": "Career Guides",
         "stock": 100,
         "image": "/images/The First 90 Days.png",
         "isbn": "978-1234567803",
-        "description": "An essential guide to career transitions, offering actionable strategies for leaders and professionals to thrive in their first 90 days."
-    },
-    {
+        "description": "An essential guide to career transitions, offering actionable strategies for leaders and professionals to thrive in their first 90 days. Michael D. Watkins outlines practical frameworks for accelerating adaptation, building relationships, and delivering value in new roles.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 304,
+        "shippingDimensions": "9.5 x 6.5 x 1.2 inches",
+        "publisher": "Harvard Business Review Press",
+        "releaseDate": "2013-05-14"
+      },
+      {
         "shortTitle": "The Parenting Plan",
         "fullTitle": "The Parenting Plan Workbook: A Comprehensive Guide to Building a Strong, Child-Centered Parenting Plan",
         "author": "Karen Bonnell",
         "ratings": 4.2,
         "price": 24.99,
+        "formats": {
+          "paperback": 24.99,
+          "hardcover": 29.99,
+          "ebook": 22.99
+        },
         "category": "Parenting",
         "stock": 60,
         "image": "/images/The Parenting Plan.png",
         "isbn": "978-1234567804",
-        "description": "A practical workbook designed to help parents create effective, child-centered parenting plans for positive co-parenting."
-    },
-    {
+        "description": "A practical workbook designed to help parents create effective, child-centered parenting plans for positive co-parenting. Karen Bonnell provides step-by-step guidance and templates to ensure the best outcomes for families navigating shared parenting arrangements.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 256,
+        "shippingDimensions": "8.5 x 5.5 x 1 inches",
+        "publisher": "Family Solutions Press",
+        "releaseDate": "2021-08-10"
+      }
+      ,{
         "shortTitle": "Unified Hearts",
         "fullTitle": "Unified Hearts: Proven Strategies for Cultivating Lasting Marital Harmony in Blended Families",
         "author": "Wanderlust Wren",
         "ratings": 4.8,
         "price": 19.99,
+        "formats": {
+          "paperback": 19.99,
+          "hardcover": 24.99,
+          "ebook": 17.99
+        },
         "category": "Relationships",
         "stock": 70,
         "image": "/images/Unified Hearts.png",
         "isbn": "978-1234567808",
-        "description": "A guide for blended families, providing proven strategies to foster harmony and lasting marital bonds in complex family dynamics."
-    }
+        "description": "A guide for blended families, providing proven strategies to foster harmony and lasting marital bonds in complex family dynamics. Wanderlust Wren combines heartfelt advice, actionable steps, and real-world examples to help couples navigate the challenges of blended families while building strong, unified relationships.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 280,
+        "shippingDimensions": "8.5 x 5.5 x 1 inches",
+        "publisher": "Harmonious Living Press",
+        "releaseDate": "2023-01-25"
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
 ]
