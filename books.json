@@ -548,7 +548,154 @@
         "shippingDimensions": "8.5 x 5.5 x 1 inches",
         "publisher": "Harmonious Living Press",
         "releaseDate": "2023-01-25"
+      },
+      {
+        "shortTitle": "The Good Place and Philosophy",
+        "fullTitle": "The Good Place and Philosophy: Everything is Forking Fine!",
+        "author": "Kimberly S. Engels",
+        "ratings": 4.6,
+        "price": 19.99,
+        "formats": {
+          "paperback": 19.99,
+          "hardcover": 24.99,
+          "ebook": 17.99
+        },
+        "category": "Self-Help",
+        "stock": 50,
+        "image": "/images/The Good Place.png",
+        "isbn": "978-1234567810",
+        "description": "Dive into the moral philosophy at the heart of all four seasons of NBC’s The Good Place, guided by academic experts including the show’s philosophical consultants Pamela Hieronymi and Todd May, and featuring a foreword from creator and showrunner Michael Schur. This book explores themes such as death, love, moral heroism, free will, responsibility, artificial intelligence, fatalism, skepticism, virtue ethics, perception, and the nature of autonomy in the surreal heaven-like afterlife of the Good Place.",
+        "illustratedBy": "Unillustrated",
+        "appropriateFor": "Adults",
+        "language": "English",
+        "noOfPages": 320,
+        "shippingDimensions": "9 x 6 x 1 inches",
+        "publisher": "Wiley-Blackwell",
+        "releaseDate": "2020-09-23"
       }
+,
+{
+    "shortTitle": "The Ultimate Lost and Philosophy",
+    "fullTitle": "The Ultimate Lost and Philosophy: Think Together, Die Alone",
+    "author": "Sharon Kaye",
+    "ratings": 4.4,
+    "price": 18.99,
+    "formats": {
+      "paperback": 18.99,
+      "hardcover": 22.99,
+      "ebook": 16.99
+    },
+    "category": "Fiction",
+    "stock": 50,
+    "image": "/images/The Ultimate Lost.png",
+    "isbn": "978-1234567811",
+    "description": "With its sixth-season series finale, Lost did more than end its run as one of the most talked-about TV programs of all time; it left in its wake a complex labyrinth of philosophical questions and issues to be explored. Revenge, redemption, love, loss, identity, and morality―all of Lost’s key themes are examined in this fully updated guide, which reveals the deeper meaning behind every twist and turn in this historic, one-of-a-kind show. Dive into the metaphysics of time travel, moral dilemmas, and the philosophical symbolism woven throughout the show’s epic journey.",
+    "illustratedBy": "Unillustrated",
+    "appropriateFor": "Adults",
+    "language": "English",
+    "noOfPages": 300,
+    "shippingDimensions": "9 x 6 x 1 inches",
+    "publisher": "Wiley-Blackwell",
+    "releaseDate": "2010-10-26"
+  }
+,{
+    "shortTitle": "Critical Thinking",
+    "fullTitle": "Critical Thinking: A Comprehensive Beginner's Guide to Rational Analysis & Creative Problem Solving",
+    "author": "Kevin Brown",
+    "ratings": 4.8,
+    "price": 19.99,
+    "formats": {
+      "paperback": 19.99,
+      "hardcover": 24.99,
+      "ebook": 17.99
+    },
+    "category": "Self-Help",
+    "stock": 100,
+    "image": "/images/Critical Thinking.png",
+    "isbn": "978-1234567812",
+    "description": "Want to improve your decision-making and problem-solving skills? This comprehensive beginner’s guide to critical thinking will train your brain to analyze, evaluate, and make better decisions. From understanding logical fallacies to mastering problem-solving strategies, Kevin Brown provides practical insights and actionable advice for improving your critical thinking skills. Learn to harness emotional intelligence, collaborative intelligence, and digital literacy to excel at work and in life. Whether you're new to critical thinking or looking to sharpen your skills, this book has everything you need to build a solid foundation.",
+    "illustratedBy": "Unillustrated",
+    "appropriateFor": "Adults",
+    "language": "English",
+    "noOfPages": 196,
+    "shippingDimensions": "8.5 x 5.5 x 1 inches",
+    "publisher": "Rational Minds Press",
+    "releaseDate": "2024-05-14"
+  }
+,{
+    "shortTitle": "The Art of Problem Solving",
+    "fullTitle": "The Art of Problem Solving: Master Proven Strategies for Effective Decision Making, Critical Thinking, and Creative Solutions",
+    "author": "K. Connors",
+    "ratings": 5.0,
+    "price": 24.99,
+    "formats": {
+      "paperback": 24.99,
+      "hardcover": 29.99,
+      "ebook": 21.99
+    },
+    "category": "Self-Help",
+    "stock": 100,
+    "image": "/images/The Art of Problem Solving.png",
+    "isbn": "978-1234567813",
+    "description": "Discover the ultimate guide to mastering life's challenges with \"The Art of Problem Solving: Master Proven Strategies for Effective Decision Making, Critical Thinking, and Creative Solutions.\" Whether you're tackling complex problems in the boardroom, classroom, or at home, this book is your secret weapon. With captivating case studies and practical insights, it transforms daunting problems into opportunities for growth and success. Designed for both professionals and kids, it combines creative and analytical thinking to develop innovative solutions. This engaging guide is perfect for anyone looking to elevate their problem-solving skills and turn obstacles into opportunities.",
+    "illustratedBy": "Unillustrated",
+    "appropriateFor": "All Ages",
+    "language": "English",
+    "noOfPages": 280,
+    "shippingDimensions": "8.5 x 5.5 x 1 inches",
+    "publisher": "Mastermind Press",
+    "releaseDate": "2024-07-03"
+  },
+  {
+    "shortTitle": "Social Media Marketing 2024",
+    "fullTitle": "Social Media Marketing 2024: Mastering Strategies, Influencer Campaigns, and Analytics for Business Growth",
+    "author": "K. Connors",
+    "ratings": 3.2,
+    "price": 27.99,
+    "formats": {
+      "paperback": 27.99,
+      "hardcover": 32.99,
+      "ebook": 24.99
+    },
+    "category": "Business",
+    "stock": 80,
+    "image": "/images/Social Media Marketing.png",
+    "isbn": "978-1234567814",
+    "description": "Unlock the secrets of social media success with \"Social Media Marketing 2024: Mastering Strategies, Influencer Campaigns, and Analytics for Business Growth.\" Designed for marketers of all levels, this comprehensive guide covers everything from developing effective strategies to leveraging influencer campaigns and analyzing key performance metrics. With a focus on emerging trends like AI, AR, and social commerce, this book equips readers with the tools needed to stay ahead in the competitive digital landscape. Whether you're a seasoned professional or a beginner, this book offers actionable insights to transform your social media presence and drive business growth.",
+    "illustratedBy": "Unillustrated",
+    "appropriateFor": "Adults",
+    "language": "English",
+    "noOfPages": 320,
+    "shippingDimensions": "8.5 x 5.5 x 1 inches",
+    "publisher": "Digital Growth Publishing",
+    "releaseDate": "2024-05-26"
+  }
+,{
+    "shortTitle": "Money Skills for Young Adults",
+    "fullTitle": "Money Skills for Young Adults: A Comprehensive Guide to Budgeting, Saving, Investing, and Financial Planning for Millennials and Gen Z",
+    "author": "K. Connors",
+    "ratings": 5.0,
+    "price": 24.99,
+    "formats": {
+      "paperback": 24.99,
+      "hardcover": 29.99,
+      "ebook": 21.99
+    },
+    "category": "Personal Finance",
+    "stock": 75,
+    "image": "/images/Money Skills for Young Adults.png",
+    "isbn": "978-1234567815",
+    "description": "Unlock the secrets to financial freedom and take control of your financial future with \"Money Skills for Young Adults: A Comprehensive Guide to Budgeting, Saving, Investing, and Financial Planning for Millennials and Gen Z.\" Simplifying complex financial concepts into easy steps, this engaging guide covers everything from budgeting and saving to investing and financial planning. With practical advice tailored for Millennials and Gen Z, this book combines wit, actionable tips, and real-life scenarios to make financial literacy approachable and fun. Whether you're managing your first job, tackling debt, or building wealth, this guide empowers young adults to master money management and achieve financial success.",
+    "illustratedBy": "Unillustrated",
+    "appropriateFor": "Young Adults",
+    "language": "English",
+    "noOfPages": 320,
+    "shippingDimensions": "8.5 x 5.5 x 1 inches",
+    "publisher": "Next Gen Finance Publishing",
+    "releaseDate": "2024-05-29"
+  }
+    
+            
       
       
       
